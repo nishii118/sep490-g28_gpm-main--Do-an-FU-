@@ -1,0 +1,2 @@
+FE: https://gitlab.com/tuanldhe1607101/sep490-g28_fos_front_end
+BE: https://gitlab.com/fuhn/summer24/sep490-g28_fos
